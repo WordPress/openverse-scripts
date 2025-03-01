@@ -4,7 +4,7 @@
   "private": true,
   "version": "0.0.0",
   "dependencies": {
-    "@octokit/rest": "21.1.0",
+    "@octokit/rest": "21.1.1",
     "axios": "^1.0.0",
     "js-yaml": "^4.1.0",
     "k6": "0.0.0",
